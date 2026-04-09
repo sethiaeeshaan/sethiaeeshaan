@@ -1,5 +1,5 @@
 👋 Hi, I’m Eeshaan Sethia. <br>
-🎓 Recently graduated from **IIT Kharagpur** (Batch of 2025)<br>
+🎓 Graduated from **IIT Kharagpur** (Batch of 2025)<br>
 💼 Backend Engineer at **FinBox**<br>
 🌌 Passionate about **Astrophysics**<br>
 🛠️ Building reliable systems, writing clean code, and always learning something new<br>
