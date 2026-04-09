@@ -3,7 +3,7 @@
 💼 Backend Engineer at **FinBox**<br>
 🌌 Passionate about **Astrophysics**<br>
 🛠️ Building reliable systems, writing clean code, and always learning something new<br>
-📫 You can reach me at eeshaans05@gmail.com<br><br>
+📫 You can reach me at <u>eeshaans05@gmail.com</u><br><br>
 <a href="https://github.com/eeshaansethia">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshaansethia&amp;theme=nightowl&amp;hide_border=true">
 </a>
