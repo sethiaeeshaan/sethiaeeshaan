@@ -1,13 +1,24 @@
-👋 Hi, I’m Eeshaan Sethia. <br>
-🎓 Graduated from **IIT Kharagpur** (Batch of 2025)<br>
-💼 Backend Engineer at **FinBox**<br>
-🌌 Passionate about **Astrophysics**<br>
-🛠️ Building reliable systems, writing clean code, and always learning something new<br>
-📫 You can reach me at <u>eeshaans05@gmail.com</u><br><br>
-<a href="https://github.com/eeshaansethia">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshaansethia&amp;theme=nightowl&amp;hide_border=true">
-</a>
-<!---
-eeshaansethia/eeshaansethia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi, I'm Eeshaan Sethia 👋</h1>                                              
+  <p align="center">                                                
+    Backend Engineer · IIT Kharagpur '25 · Astrophysics Enthusiast                                                                             
+  </p>    
+  
+  ---  
+  
+  ### About Me                                                                                                                                    
+  - 🎓 Graduated from **IIT Kharagpur** (Batch of 2025)
+  
+  - 💼 Backend Engineer at **FinBox** — building reliable, scalable financial systems
+                
+  - 🌌 Passionate about **Astrophysics** — the universe is the best debugger
+                                                               
+  - 🛠️  I care about clean code, well-designed APIs, and systems that don't wake you up at 3am
+                                                 
+  - 📫 Reach me at **eeshaans05@gmail.com**
+    
+  ---
+
+### GitHub Stats
+  <p align="center">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshaansethia&theme=nightowl&hide_border=true" alt="GitHub Streak" />                                             
+  </p> 
