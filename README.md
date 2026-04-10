@@ -20,5 +20,5 @@
 
 ### GitHub Stats
   <p align="center">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshaansethia&theme=nightowl&hide_border=true" alt="GitHub Streak" />                                             
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sethiaeeshaan&theme=nightowl&hide_border=true" alt="GitHub Streak" />                                             
   </p> 
