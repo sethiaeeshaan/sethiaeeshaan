@@ -12,7 +12,7 @@
                 
   - 🌌 Passionate about **Astrophysics** — the universe is the best debugger
                                                                
-  - 🛠️  I care about clean code, well-designed APIs, and systems that don't wake you up at 3am
+  - 🛠️  I care about making systems that don't wake you up at 3am
                                                  
   - 📫 Reach me at **eeshaans05@gmail.com**
     
